@@ -5,6 +5,8 @@ public class MainOne {
 
         Person sjaak = new Person("Sjaak");
 
+        System.out.println(sjaak.getName());
+
 
     }
 }
